@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/org/cloudCorp/dao/FriendDao.java=UTF-8
+encoding//src/org/cloudCorp/service/FriendService.java=GBK
+encoding//src/org/cloudCorp/service/UserInfoService.java=UTF-8
+encoding//src/org/cloudCorp/util/CRUD_Pool.java=UTF-8
+encoding//src/org/cloudCorp/util/DBUtils.java=UTF-8
